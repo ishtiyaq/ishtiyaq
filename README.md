@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/14991908/183407482-bdfe1233-9566-4ede-8189-c844887a99d2.png)
+![image](github-header-image.png)
   
 ### <div align="center">I'm Ishtiyaq Husain [(lessons4you)](https://ishtiyaq.com), a DevOps Engineer, content creator, and a HomeLab enthusiast.   I create fun and easy to follow tech content on [YouTube](https://ishtiyaq.com)</div>  
   
