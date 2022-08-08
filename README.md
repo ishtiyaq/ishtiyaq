@@ -78,6 +78,6 @@
 
 ## Stack Overflow
 
-[![Ishtiyaq Husain StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5458184&layout=compact)](https://stackoverflow.com/users/5458184/ishtiyaq-husain)
+[![Ishtiyaq Husain StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5458184&layout=compact&theme=dark)](https://stackoverflow.com/users/5458184/ishtiyaq-husain)
 
 <br/>
