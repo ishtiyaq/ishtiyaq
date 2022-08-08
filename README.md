@@ -81,3 +81,5 @@
 [![Ishtiyaq Husain StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5458184&layout=compact&theme=dark)](https://stackoverflow.com/users/5458184/ishtiyaq-husain)
 
 <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ishtiyaq)](https://github.com/ishtiyaq/github-profile-trophy)
