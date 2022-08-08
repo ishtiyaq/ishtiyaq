@@ -72,4 +72,12 @@
 ## 📊 Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=ishtiyaq&show_icons=true&count_private=true&hide_border=true" align="center" />
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ishtiyaq&theme=gruvbox)](https://git.io/streak-stats)
+
+<br/>
+
+## Stack Overflow
+
+[![Ishtiyaq Husain StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=5458184&layout=compact)](https://stackoverflow.com/users/5458184/ishtiyaq-husain)
+
 <br/>
