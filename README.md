@@ -68,6 +68,11 @@
 
 <br/>  
 
+## ☕ If you like what I do, maybe consider buying me a coffee/tea
+
+<a href="https://www.buymeacoffee.com/ishtiyaq" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<br/>
 
 ## 📊 Github Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=ishtiyaq&show_icons=true&count_private=true&hide_border=true" align="center" />
