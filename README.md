@@ -102,13 +102,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 80 Contributions in the Year 2022
  > 
-> 📦 970 Bytes Used in GitHub's Storage 
+> 📦 974 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -182,5 +182,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ishtiyaq/ishtiyaq/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/09/2022 18:47:52 UTC
+ Last Updated on 06/09/2022 18:48:13 UTC
 <!--END_SECTION:waka-->
