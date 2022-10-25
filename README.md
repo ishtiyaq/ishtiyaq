@@ -108,7 +108,7 @@
 
 > 🏆 86 Contributions in the Year 2022
  > 
-> 📦 996 Bytes Used in GitHub's Storage 
+> 📦 1.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -182,5 +182,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ishtiyaq/ishtiyaq/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/10/2022 19:03:42 UTC
+ Last Updated on 25/10/2022 19:16:56 UTC
 <!--END_SECTION:waka-->
