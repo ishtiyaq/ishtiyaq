@@ -108,7 +108,7 @@
 
 > 🏆 86 Contributions in the Year 2022
  > 
-> 📦 957 Bytes Used in GitHub's Storage 
+> 📦 961 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -145,21 +145,16 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Terraform                1 hr 52 mins        ██████████░░░░░░░░░░░░░░░   42.64% 
-Other                    1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   42.2% 
-Python                   23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
-Bash                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.98% 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 23 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-lambda-control-ec2       2 hrs 21 mins       █████████████░░░░░░░░░░░░   53.8% 
-devops.gfs.utility       2 hrs 1 min         ███████████░░░░░░░░░░░░░░   46.2%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 23 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -179,5 +174,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ishtiyaq/ishtiyaq/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/11/2022 18:45:27 UTC
+ Last Updated on 05/11/2022 18:43:43 UTC
 <!--END_SECTION:waka-->
