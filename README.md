@@ -100,7 +100,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -108,7 +108,7 @@
 
 > 🏆 86 Contributions in the Year 2022
  > 
-> 📦 968 Bytes Used in GitHub's Storage 
+> 📦 971 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -145,16 +145,22 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     1 hr 29 mins        ████████████████░░░░░░░░░   63.89% 
+Terraform                20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.64% 
+Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.33% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.98%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 20 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+lambda-control-ec2       49 mins             ████████░░░░░░░░░░░░░░░░░   35.07% 
+kerry-backend            46 mins             ████████░░░░░░░░░░░░░░░░░   33.0% 
+kerry-frontend           44 mins             ████████░░░░░░░░░░░░░░░░░   31.93%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
@@ -174,5 +180,5 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ishtiyaq/ishtiyaq/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/11/2022 18:44:54 UTC
+ Last Updated on 08/11/2022 18:55:58 UTC
 <!--END_SECTION:waka-->
